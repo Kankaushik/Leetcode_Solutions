@@ -21,5 +21,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
