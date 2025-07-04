@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
