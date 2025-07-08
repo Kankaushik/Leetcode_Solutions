@@ -13,6 +13,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0202-happy-number) |
 ## Math
@@ -37,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0169-majority-element) |
