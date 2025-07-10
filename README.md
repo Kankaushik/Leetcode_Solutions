@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
