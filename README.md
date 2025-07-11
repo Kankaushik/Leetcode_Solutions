@@ -32,10 +32,12 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
