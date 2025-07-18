@@ -79,4 +79,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
