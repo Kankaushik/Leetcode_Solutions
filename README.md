@@ -36,12 +36,14 @@
 | [0020-valid-parentheses](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0072-edit-distance](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0072-edit-distance) |
 ## Array
 |  |
 | ------- |
