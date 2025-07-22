@@ -84,5 +84,6 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
