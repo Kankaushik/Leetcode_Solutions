@@ -27,6 +27,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0202-happy-number) |
 ## String
@@ -50,6 +51,7 @@
 | [0001-two-sum](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0216-combination-sum-iii) |
 ## Divide and Conquer
@@ -59,6 +61,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
