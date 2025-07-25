@@ -50,6 +50,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0056-merge-intervals](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0169-majority-element) |
@@ -61,6 +62,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kankaushik/Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Counting
