@@ -1,10 +1,5 @@
-class Solution(object):
-    def containsNearbyDuplicate(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: bool
-        """
+class Solution:
+    def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
         check = set()
         for i in range(len(nums)):
             if nums[i] in check:
@@ -14,4 +9,3 @@ class Solution(object):
             if len(check) > k:
                 check.remove(nums[i-k])
         return False
-            
